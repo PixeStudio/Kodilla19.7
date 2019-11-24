@@ -1,0 +1,21 @@
+{
+  "name": "kodilla19.7",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start": "http-server",
+    "build": "babel script.js --watch --out-file script-compiled.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.11.1",
+    "babel-cli": "^6.26.0",
+    "babel-preset-latest": "^6.24.1"
+  },
+  "dependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1"
+  },
+  "description": ""
+}

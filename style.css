@@ -1,0 +1,23 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background: #607d8b;
+    padding: 25px;
+  }
+  
+  .controls {
+    text-align: center;
+  }
+  
+  .controls a {
+    color: #bbbbbb;
+    text-decoration: none;
+    margin: 5px;
+  }
+  
+  .stopwatch {
+    color: #bbbbbb;
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+  }
+  
